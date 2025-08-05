@@ -1,17 +1,17 @@
-var bubble_cat = {
+var mist = {
     "type": "FeatureCollection",
     "features": [
         {
             "type": "Feature",
             "properties": {
                 "id": "01",
-                "description": "."
+                "description": "Mist Invasion Time: 11:00 13:00 18:00 22:00 00:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    47.75,
-                    -131.5
+                    97.25,
+                    -96
                 ]
             }
         },
@@ -19,13 +19,13 @@ var bubble_cat = {
             "type": "Feature",
             "properties": {
                 "id": "02",
-                "description": "."
+                "description": "Mist Invasion Time: 11:00 13:00 18:00 22:00 00:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    76.25,
-                    -126.25
+                    104,
+                    -219
                 ]
             }
         }

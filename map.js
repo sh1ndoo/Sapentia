@@ -48,7 +48,8 @@ addCatSpots(interactive_map);
 addJarSpots(interactive_map);
 addBubbleCat(interactive_map);
 addCameraSpots(interactive_map);
-addNpc(interactive_map);
+addMist(interactive_map);
+addBells(interactive_map);
 
 
 // Step 4:

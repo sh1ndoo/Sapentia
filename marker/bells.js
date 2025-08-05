@@ -1,4 +1,4 @@
-var npc = {
+var bells = {
     "type": "FeatureCollection",
     "features": [
         {
@@ -10,8 +10,8 @@ var npc = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    76.75,
-                    -186.25
+                    101.5,
+                    -90
                 ]
             }
         },
@@ -24,8 +24,8 @@ var npc = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    56,
-                    -208
+                    139.5,
+                    -121
                 ]
             }
         },
@@ -38,8 +38,8 @@ var npc = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    104.5,
-                    -195
+                    219.75,
+                    -204.5
                 ]
             }
         }
