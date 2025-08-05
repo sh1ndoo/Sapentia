@@ -381,6 +381,14 @@ class InteractiveMap {
             position: 'left'
         }).addTo(this.#map);
 
+
+        this.#sidebar.addPanel({
+            id: 'home',
+            tab: '<i class="fa-solid fa-house"></i>',
+            title: 'Norn',
+            position: 'bottom',
+            button: 'https://tos.ifknow.ru/'
+        });
         this.#sidebar.addPanel({
             id: 'archi-isle',
             tab: '<i class="fa-solid fa-umbrella-beach"></i>',
@@ -415,6 +423,13 @@ class InteractiveMap {
             title: 'Mutley Port',
             position: 'bottom',
             button: 'https://sh1ndoo.github.io/Mutley_Port/'
+        });
+        this.#sidebar.addPanel({
+            id: 'sapentia',
+            tab: '<i class="fa-solid fa-landmark"></i>',
+            title: 'Sapentia',
+            position: 'bottom',
+            button: 'https://sh1ndoo.github.io/Sapentia/'
         });
 
 
